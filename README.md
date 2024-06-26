@@ -2,10 +2,9 @@
 Welcome to my Git-Hub!
 </h1>
 
-<img width=25% src="https://media.tenor.com/MYaoHv7vvoUAAAAi/laughing-miles-morales.gif">
-
-<br>
-    teste
-    teste
-    teste
-</br>
+<div>
+    <row>
+        <img width=25% src="https://media.tenor.com/MYaoHv7vvoUAAAAi/laughing-miles-morales.gif">
+        <img width=25% src="https://media.tenor.com/MYaoHv7vvoUAAAAi/laughing-miles-morales.gif">
+    </row>
+</div>
