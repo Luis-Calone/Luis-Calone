@@ -1,10 +1,9 @@
 <h1 align="center" style="font-family: 'Montserrat';">
     Welcome to my Git-Hub!
 </h1>
-<a target="blank">
-    <img align="right" width=21%
-        src="https://media.tenor.com/MYaoHv7vvoUAAAAi/laughing-miles-morales.gif">
-</a>
+<img align="right" width=21%
+    src="https://media.tenor.com/MYaoHv7vvoUAAAAi/laughing-miles-morales.gif">
+
 <h3 align="left">About me:</h3>
 <ul>
     <h4>- Name: Luis Calone;</h4>
