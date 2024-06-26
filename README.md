@@ -1,9 +1,9 @@
 <html>
-    <header>
+    <!-- <header>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-    </header>
+    </header> -->
         <h1 align="center" style="font-family: 'Montserrat';"> 
             Welcome to my Git-Hub!
         </h1>
@@ -17,9 +17,7 @@
                 <h4>- Graduating: Computer Science;</h4>
             </ul>
             <div align="left">
-            <!-- <row > -->
                 <img src="https://github-readme-stats.vercel.app/api?username=Luis-Calone&show_icons=true&theme=github_dark">
-            <!-- </row> -->
     </div>
     
 </body>
