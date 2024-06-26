@@ -2,7 +2,7 @@
 Welcome to my Git-Hub!
 </h1>
 <body>
-    <br >
+    <br/>
     - I’m **Luis Calone**
     - 𝙸’𝚖 **20 years** old
     - 𝙸’𝚖 from **Brazil**
