@@ -2,8 +2,9 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=FAF7E3&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World!🌎" alt="Typing SVG" /></a>
 </p>
 
+##
 
-<h1 align="center" style="font-family: 'Montserrat';">
+<h1 align="center">
     Welcome to my Git-Hub!
 </h1>
 
