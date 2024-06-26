@@ -2,7 +2,7 @@
 Welcome to my Git-Hub!
 </h1>
 <body>
-    <img align="right" width=20% src="https://media.tenor.com/MYaoHv7vvoUAAAAi/laughing-miles-morales.gif">
+    <img align="right" width=21% src="https://media.tenor.com/MYaoHv7vvoUAAAAi/laughing-miles-morales.gif">
     <h3 align="left">
         About me:
         <h4>
