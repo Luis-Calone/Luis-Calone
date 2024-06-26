@@ -15,10 +15,10 @@
 
 ##
 
-<div align="center">
+<div align="justify">
     <img width="35%" height="150px"
         src="https://github-readme-stats.vercel.app/api?username=Luis-Calone&show_icons=true&theme=github_dark" />
-    <img align="right" width="38%" height="150px"
+    <img width="38%" height="150px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Calone&layout=compact&theme=github_dark"
         alt="Luis most languages" />
 </div>
