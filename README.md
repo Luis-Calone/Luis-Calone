@@ -16,9 +16,9 @@
 ##
 
 <div align="center">
-    <img
+    <img width="50%"
         src="https://github-readme-stats.vercel.app/api?username=Luis-Calone&show_icons=true&theme=github_dark">
-    <img
+    <img width="50%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Calone&layout=compact&theme=github_dark"
         alt="Luis most languages">
 </div>
