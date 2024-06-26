@@ -3,7 +3,7 @@
     Welcome to my Git-Hub!
 </h1>
 
-<img align="right" width=21%
+<img align="right" width=25%
     src="https://media.tenor.com/MYaoHv7vvoUAAAAi/laughing-miles-morales.gif">
 <h3 align="left">About me:</h3>
 <ul>
