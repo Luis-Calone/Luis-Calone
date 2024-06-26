@@ -18,7 +18,7 @@
 <div align="center">
     <img width="35%"
         src="https://github-readme-stats.vercel.app/api?username=Luis-Calone&show_icons=true&theme=github_dark">
-    <img width="35%"
+    <img width="37%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Calone&layout=compact&theme=github_dark"
         alt="Luis most languages">
 </div>
